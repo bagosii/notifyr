@@ -1,7 +1,6 @@
-# toastr
-**toastr** is a Javascript library for non-blocking notifications. jQuery is required. The goal is to create a simple core library that can be customized and extended.
-
-[![Build Status](https://travis-ci.org/CodeSeven/toastr.svg)](https://travis-ci.org/CodeSeven/toastr)
+# notifyR
+**notifyR** is a Javascript library for non-blocking notifications. jQuery is required. The goal is to create a simple core library that can be customized and extended.
+This has been forked from toastr library and being customized for Midgard framework (frpg.hu)
 
 ## Current Version
 2.1.1
@@ -11,7 +10,7 @@
 - [Demo using FontAwesome icons with toastr](http://plnkr.co/edit/6W9URNyyp2ItO4aUWzBB?p=preview)
 
 ## CDNjs
-Toastr is hosted at CDN JS
+TODO add to frpg.hu cdn.
 
 #### Debug
 - [//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.js](//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.js)
